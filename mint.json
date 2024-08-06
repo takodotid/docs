@@ -1,29 +1,29 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Tako Documentation",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://assets.tako.id/logo.png",
+    "light": "https://assets.tako.id/logo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#37A2EA",
+    "light": "#1086D5",
+    "dark": "#37A2EA",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#37A2EA",
+      "to": "#1086D5"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Back to Tako",
+      "url": "https://tako.id"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Discord Server",
+    "url": "https://discord.gg/tako"
   },
   "tabs": [
     {
@@ -84,8 +84,9 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "discord": "https://discord.gg/tako",
+    "x": "https://x.com/takodotid",
+    "instagram": "https://instagram.com/takodotid",
+    "tiktok": "https://tiktok.com/@takodotid"
   }
 }
